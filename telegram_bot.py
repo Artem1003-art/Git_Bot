@@ -5,7 +5,7 @@ import sqlite3
 import requests
 import json
 from currency_converter import CurrencyConverter
-from aiogram.types.web_app_info import WebAppInfo
+
 
 
 bot = telebot.TeleBot("6429172764:AAEQCVn2hGu7fh5wtZffIGWngAJsmeBTAVg")
